@@ -1,0 +1,9 @@
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

@@ -1,0 +1,7 @@
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\TAPAN\Documents\Visual Studio 2015\Projects\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
